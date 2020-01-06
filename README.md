@@ -1,0 +1,2 @@
+# FindDiamond
+Minecraft FindDiamond Plugin
