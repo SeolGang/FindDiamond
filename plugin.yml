@@ -1,0 +1,9 @@
+version: 1.0
+name: FindDiamond
+main: com.seolgang.finddiamond.Main
+author: SeolGang
+description: Find Diamond Plugin
+commands:
+  fd:
+   aliases: [finddiamond]
+   description: /fd TRUE or FALSE
